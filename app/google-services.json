@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777755587475",
+    "project_id": "project-1170831613249650762"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777755587475:android:56d2283c26e8ad26",
+        "android_client_info": {
+          "package_name": "com.tricktekno.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777755587475-mm6l8s02egrkj6b9ou6ju1abgvmjt0d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tricktekno.googlelogin",
+            "certificate_hash": "c0af3c00f54cb7cb6c8477430e1f081399f926a7"
+          }
+        },
+        {
+          "client_id": "777755587475-ah2oarm8v7utq06j214hk1eg9ai5enpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADd2QbzT5FZSxmiULc771dfV4S4Dy0nhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
